@@ -2,7 +2,7 @@
 
 ## Introducton.
 
-As we all familiar to Notepad in Windows, we use it to take down short notes,reminders,tasks, and memos. I have designed the same Notepad For Android using in built SQL of android.
+As we all are familiar to Notepad in Windows, we use it to take down short notes,reminders,tasks, and memos. I have designed the same Notepad For Android using in built SQL of Android.
 Its very simple to use.
 
 ## Requirements
