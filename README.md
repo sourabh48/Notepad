@@ -12,3 +12,9 @@ Its very simple to use.
 
 ### Note:  
 I have updated it to recent gradle.
+
+
+## Support
+If you think my projects are helpful you can contribute me anything at paypal.me/sourabh48
+
+
